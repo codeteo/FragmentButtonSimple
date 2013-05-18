@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FragmentButtonSimple</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button_text">Simple Transactions on Button Click</string>
+
+    <string name="button_text_1">Transaction 1</string>
+    <string name="button_text_2">Transaction 2</string>
+    <string name="button_text_3">Transaction 3</string>
+    
+    <color name="cool">#000066</color>
+    <color name="cool2">#121212</color>
+    <color name="color_3">#FF0000</color>
+
+</resources>
